@@ -150,3 +150,8 @@ th
     font-size:16px;
     border-radius:12px;
 }
+
+/* file input spacing */
+#bgUpload {
+    margin-top: 6px;
+}
