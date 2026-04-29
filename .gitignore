@@ -1,3 +1,5 @@
 
 .DS_Store
-/images
+/images/*
+!/images/cross-campus.jpeg
+!/images/Divinity_Library_Zoom.jpg
